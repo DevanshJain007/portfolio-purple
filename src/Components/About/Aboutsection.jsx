@@ -2,7 +2,7 @@ import React from 'react';
 
 const Aboutsection = () => {
   return (
-    <div className="h-screen w-screen flex flex-col justify-center items-center px-8">
+    <div className="w-full h-screen flex flex-col justify-center items-center px-8">
       <div className="text-left max-w-3xl">
         <h3 className="text-7xl font-bold uppercase mb-6">I'm a Software Engineer.</h3>
         <p className="text-3xl leading-snug uppercase text-gray-700">
